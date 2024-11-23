@@ -59,13 +59,13 @@
   justify-content: space-between;
   align-items: center;
   padding: 15px;
-  width: 300px;
+  width: 400px;
   height: 50px;
 }
 
 .calculator__standing-line-time {
   color: rgb(255, 255, 255);
-  font-family: Poppins;
+  font-family: Beepo;
   font-size: 12px;
   text-align: left;
   padding: 20px;
@@ -85,6 +85,7 @@
   padding-right: 20px;
   color: rgb(255, 255, 255);
   font-size: 90px;
+  font-family: Beepo;
   text-align: right;
   display: flex;
   flex-direction: column-reverse;
